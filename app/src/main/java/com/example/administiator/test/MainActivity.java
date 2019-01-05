@@ -37,7 +37,7 @@ import java.io.InputStreamReader;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    //输入的内容
+    //输入的
     private EditText u_disk_edt;
     //写入到U盘
     private Button u_disk_write;
